@@ -207,7 +207,4 @@ All backend endpoints are accessible at `http://127.0.0.1:5000/api`:
 
 ## 🔮 Future Improvements
 - 🔔 **Email & Due Date Notifications**: Automated reminders for upcoming and overdue tasks.
-- 🏷️ **Custom Task Categories & Tags**: Tag tasks (e.g. *Work*, *Personal*, *Urgent*).
-- 🖱️ **Drag-and-Drop Board View**: Move tasks across status columns visually.
-- 🌙 **Dark Mode Support**: Toggle UI color themes.
 - 📄 **Data Export**: Export task records into CSV or PDF files.
