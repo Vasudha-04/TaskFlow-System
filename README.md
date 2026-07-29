@@ -23,6 +23,14 @@
 
 ---
 
+## Screenshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6786afdf-cdfa-4a45-b960-40df3719f8bc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b39facb-e573-4b7b-85b8-b8136f5e508a" />
+
+---
+
 ## 🛠️ Technologies Used
 
 ### Backend
